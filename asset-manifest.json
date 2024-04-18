@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d5292c4a.css",
+    "main.js": "./static/js/main.d5a80a8c.js",
+    "static/media/Logo.svg": "./static/media/Logo.17c0e2d16691379ae32800c756d6d64a.svg",
+    "static/media/Cart.svg": "./static/media/Cart.9d5d0d409501d818f0d1915bf3ffa043.svg",
+    "static/media/Favorites.svg": "./static/media/Favorites.4eb726b0f8c686c312fcffab0eeef2f8.svg",
+    "static/media/Home.svg": "./static/media/Home.d4c29e4f137b3a79235a5293536d71a0.svg",
+    "static/media/Burger.svg": "./static/media/Burger.7d886604721a2522b7ee.svg",
+    "static/media/Vec_light_right.svg": "./static/media/Vec_light_right.2a072ff1bf1fd396b30e9dec3a108dcb.svg",
+    "static/media/Vector_Up.svg": "./static/media/Vector_Up.3ffcd791e50e94d29e189daed0f834b9.svg",
+    "static/media/Vector_light_left.svg": "./static/media/Vector_light_left.d51ddc975aaaa3964a8eb3733734e27a.svg",
+    "static/media/Arrow_Left.svg": "./static/media/Arrow_Left.960106b239d993f02b1fada9a9858e17.svg",
+    "static/media/Arrow_Right.svg": "./static/media/Arrow_Right.70f42d77d4895623e71b884dc12f349b.svg",
+    "index.html": "./index.html",
+    "static/media/Rectangle_left.svg": "./static/media/Rectangle_left.5327a83cedb082bb5c73.svg",
+    "static/media/Rectangle_right.svg": "./static/media/Rectangle_right.5573428e225866fd8e33.svg",
+    "main.d5292c4a.css.map": "./static/css/main.d5292c4a.css.map",
+    "main.d5a80a8c.js.map": "./static/js/main.d5a80a8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5292c4a.css",
+    "static/js/main.d5a80a8c.js"
+  ]
+}
